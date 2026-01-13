@@ -1,0 +1,9 @@
+{
+  "name": "Suwon Samsung Bluewings 2026 Official",
+  "description": "The official fan portal for Suwon Samsung Bluewings 2026 season, featuring squad details, coach information, and an AI fan assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "mobileCapable": true,
+  "themeColor": "#074CA1"
+}

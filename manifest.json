@@ -1,0 +1,22 @@
+
+{
+  "name": "수원 삼성 블루윙즈 2026",
+  "short_name": "수원삼성2026",
+  "description": "수원 삼성 블루윙즈 2026 시즌 공식 팬 포털 및 AI 비서",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#074CA1",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&q=80&w=192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&q=80&w=512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
